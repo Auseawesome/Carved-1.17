@@ -1,5 +1,16 @@
 {
   "variants": {
-    "": { "model":  "carved:block/gold_pillar" }
+    "axis=x": {
+      "model": "carved:block/gold_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "carved:block/gold_pillar"
+    },
+    "axis=z": {
+      "model": "carved:block/gold_pillar_horizontal",
+      "x": 90
+    }
   }
 }
