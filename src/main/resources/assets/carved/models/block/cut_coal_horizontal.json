@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "carved:block/cut_coal_top",
+    "side": "carved:block/cut_coal"
+  }
+}

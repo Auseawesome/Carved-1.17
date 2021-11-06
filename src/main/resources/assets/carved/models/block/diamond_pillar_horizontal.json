@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "carved:block/diamond_pillar_top",
+    "side": "carved:block/diamond_pillar"
+  }
+}
