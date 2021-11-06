@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "carved:block/redstone_column_top"
+    "side": "carved:block/redstone_column"
+  }
+}

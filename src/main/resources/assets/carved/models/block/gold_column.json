@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "carved:block/gold_column_top"
+    "side": "carved:block/gold_column"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "carved:block/coal_pillar_top"
+    "side": "carved:block/coal_pillar"
+  }
+}
